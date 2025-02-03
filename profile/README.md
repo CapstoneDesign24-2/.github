@@ -1,5 +1,8 @@
-
+### <p>$\bf{\large{\color{#1589F0}주제}}$ 외국인을 위한 AI 내용증명 작성 서비 </p>
+#### <p>$\bf{\large{\color{#1589F0}기획}}$ 여러 분야에 대해 내용증명을 작성해주고 이해를 위한 번역 서비스 개발 </p>
 ### 2024년 2학기 한국외대 캡스톤설계및실습 우수상 팀 ErrorCode
+
+
 <!--
 
 **Here are some ideas to get you started:**
