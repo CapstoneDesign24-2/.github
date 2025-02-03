@@ -1,7 +1,8 @@
-#### <p>$\textbf{\large{\color{#8977AD} \text{외국인을 위한 AI 내용증명 작성 서비스} }}$</p>
+#### <p><span style="color:#8977AD; font-weight:bold; font-size:20px;">외국인을 위한 AI 내용증명 작성 서비스</span></p>
+
+#### <p><span style="color:#8977AD; font-weight:bold; font-size:14px;">적절한 내용증명을 작성해주고 이해를 위한 번역 서비스 개발</span></p>
 
 
-#### <p>$\textbf{\small{\color{#8977AD} \text{적절한 내용증명을 작성해주고 이해를 위한 번역 서비스 개발} }}$</p>
 
 > 2024 2학기 한국외대 캡스톤설계 프로젝트
 >> Team ErrorCode - 우수상
